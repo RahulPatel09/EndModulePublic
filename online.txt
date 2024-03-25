@@ -1,0 +1,2 @@
+This is created on github & i want to use git pull to pull it on my local machine.
+With this i can check does git pull work or not.
